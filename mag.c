@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 int main() {
-    float petrol = 100.0;  // starting stock in liters
+    // starting stock in liters
+    float petrol = 100.0;
     float diesel = 150.0;
     float cng = 200.0;
 
@@ -108,4 +109,5 @@ int main() {
     }
 
     return 0;
+
 }
